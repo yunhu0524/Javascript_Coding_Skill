@@ -11,3 +11,7 @@ const update1 = { ...book, title: "코딩 & 기술" };
 const update2 = { ...book, year: 1984 };
 
 console.log(update2);
+
+const map = new Map();
+
+console.log(map.size);
